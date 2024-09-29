@@ -1,5 +1,5 @@
-import heroes from './data/heroes';
-import { getHeroById } from './foundations/08-import';
+import heroes from '../data/heroes';
+import { getHeroById } from './08-import';
 
 // const promesa = new Promise( (resolve, reject) =>{
 //   setTimeout( () => {
